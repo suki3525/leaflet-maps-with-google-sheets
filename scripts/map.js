@@ -920,7 +920,7 @@ $(window).on('load', function() {
   function addBaseMap() {
     var basemap = trySetting('_tileProvider', 'CartoDB.Positron');
     L.tileLayer('https://barrios.geoma.casa/gmap_api/leaflet/{z}/{x}/{y}.jpg', {
-      maxZoom: 18
+      maxZoom: 21
     }).addTo(map);
     L.control.attribution({
       position: trySetting('_mapAttribution', 'bottomright')
