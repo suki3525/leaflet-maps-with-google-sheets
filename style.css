@@ -163,9 +163,9 @@ form {
   position: absolute;
   bottom: 5vh;
   left: 10vw;
-  width: 200vw;
+  width: 500vw;
   z-index: 1000;
-  background: grey;
+  background: white;
   padding: 1vh 5vw;
   opacity: 0.9;
   border: 5px #ddd solid;
