@@ -67,12 +67,12 @@ form {
 }
 
 .leaflet-popup-content {
-  min-width: 450px;
+  min-width: 150px;
 }
 
 .leaflet-popup-content img {
-  width: 400%;
-  margin: 5px 0 5px 0;
+  width: 100%;
+  margin: 0px 0 0px 0;
 }
 
 .geojson-point-marker {
@@ -163,7 +163,7 @@ form {
   position: absolute;
   bottom: 5vh;
   left: 10vw;
-  width: 70vw;
+  width: 470vw;
   z-index: 1000;
   background: white;
   padding: 1vh 5vw;
@@ -184,7 +184,7 @@ form {
   position: absolute;
   top: 3px;
   right: 3px;
-  width: 30px;
+  width: 430px;
   background: #bbb;
   color: white;
   font-size: 1.4em;
