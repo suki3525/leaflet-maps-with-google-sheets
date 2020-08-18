@@ -180,7 +180,7 @@ form {
   opacity: 0.9;
   border: 5px #ddd solid;
   border-radius: 5px;
-  font-family: "Helvetica Neue", Arial;
+  font-family: bikoregular,"Helvetica Neue", Arial;
 }
 
 #mobile-intro-popup p {
@@ -248,7 +248,7 @@ div.dataTables_scrollHead {
 }
 
 .dataTable * {
-  font-family: "Helvetica Neue", Arial;
+  font-family: bikoregular, "Helvetica Neue", Arial;
   border: 0 !important;
 }
 
