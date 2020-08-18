@@ -1,4 +1,14 @@
 html,
+
+@font-face {
+    font-family: 'bikoregular';
+    src: url('biko_regular-webfont.woff2') format('woff2'),
+         url('biko_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
   padding: 0;
   margin: 0 auto;
