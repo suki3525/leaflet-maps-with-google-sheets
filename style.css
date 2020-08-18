@@ -165,7 +165,7 @@ form {
   left: 10vw;
   width: 200vw;
   z-index: 1000;
-  background: white;
+  background: grey;
   padding: 1vh 5vw;
   opacity: 0.9;
   border: 5px #ddd solid;
