@@ -1,2 +1,2 @@
-var googleDocURL = 'https://docs.google.com/spreadsheets/d/117evxn_YtEgGF3rFvHjJoR8sx4QQtc-tSh75t1B7lhw/edit#gid=0';
+var googleDocURL = 'https://docs.google.com/spreadsheets/d/17KdTIgJvgql9H4rXs8N1ogC7U7jm9ApB-wqF3hST_D8/edit#gid=1927092265';
 var googleApiKey = 'AIzaSyDXkfplTsdjVrjnrP_U0v_XzM0p5sCbxy0';
