@@ -10,7 +10,6 @@ body {
   width: 100vw;
   height: 100vh;
   visibility: hidden;
-  -moz-transform: rotate(30deg);
 }
 
 h3 {
