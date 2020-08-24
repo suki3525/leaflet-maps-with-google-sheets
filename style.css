@@ -175,7 +175,7 @@ form {
   left: 10vw;
   width: 500vw;
   z-index: 1000;
-  background: white;
+  background: transparent;
   padding: 1vh 5vw;
   opacity: 0.9;
   border: 5px #ddd solid;
@@ -196,7 +196,7 @@ form {
   right: 3px;
   width: 30px;
   background: #bbb;
-  color: white;
+  color: transparent;
   font-size: 1.4em;
   text-align: center;
   border-radius: 5px;
